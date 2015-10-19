@@ -34,7 +34,7 @@
  * Declarations for test code and other miscellaneous high-level
  * functions.
  */
-
+void hello(void);
 
 /* This is only actually available if OPT_SYNCHPROBS is set. */
 int whalemating(int, char **);
